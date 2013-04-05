@@ -25,7 +25,7 @@ END_MESSAGE_MAP()
 
 CChildFrame::CChildFrame()
 {
-	// TODO: 在此添加成员初始化代码
+	// TODO: 
 }
 
 CChildFrame::~CChildFrame()
